@@ -1,6 +1,6 @@
 ARG ALPINE_VERSION=3.10.2
 
-FROM alpine:3.10.2 as prod
+FROM alpine:$ALPINE_VERSION
 
 MAINTAINER ops@newsletter2go.com
 
