@@ -16,7 +16,7 @@ docker run -d -p 2500:25 \
 ```
 ## Development
 
-Run locally build image
+Run locally built image
 
     docker-compose run postfix
 
