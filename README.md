@@ -1,3 +1,7 @@
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/nl2go/postfix)](https://hub.docker.com/repository/docker/nl2go/postfix/general)
+[![Docker Pulls](https://img.shields.io/docker/pulls/nl2go/postfix)](https://hub.docker.com/r/nl2go/postfix)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/nl2go/docker-postfix)](https://hub.docker.com/repository/docker/nl2go/postfix/tags?page=1)
+
 # Docker Postfix
 
 Containerized [Postfix](http://www.postfix.org/) mail server.
